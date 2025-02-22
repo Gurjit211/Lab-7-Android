@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidActivityLifecycle</string>
+    <string name="login_label">Login:</string> <!-- ✅ Fixed -->
+    <string name="login_hint">Enter Login ID</string> <!-- ✅ Fixed -->
+    <string name="password_label">Password:</string> <!-- ✅ Fixed -->
+    <string name="password_hint">Enter Password</string> <!-- ✅ Fixed -->
+    <string name="login_button">Login</string> <!-- ✅ Fixed -->
+    <string name="back">Back</string>
+    <string name="go_to_profile">Go To Profile</string>
+    <string name="online">Online</string>
+</resources>
